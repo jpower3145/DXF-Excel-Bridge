@@ -44,4 +44,4 @@ pip install flet ezdxf pandas shapely fuzzywuzzy openpyxl numpy
 3. The tool will convert the drawing and automatically launch the Discrepancy Checker.
 
 ## Portfolio Context
-This project was developed by **Joe Power**, a Computer Science graduate from **Lancaster University**. It showcases the ability to translate complex industrial requirements (EN1176 safety standards) into robust, maintainable, and user-friendly software solutions.
+This project was developed by **Joe Power**, for Playdale Playgrounds and forms part of a Computer Science 4th Year Project from **Lancaster University**. It showcases the ability to translate complex industrial requirements (EN1176 safety standards) into robust, maintainable, and user-friendly software solutions.

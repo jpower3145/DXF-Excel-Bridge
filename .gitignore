@@ -3,7 +3,7 @@
 Thumbs.db
 .DS_Store
 
-# --- Python Junk ---
+# --- Python ---
 __pycache__/
 *.py[cod]
 *$py.class
@@ -14,7 +14,6 @@ venv/
 .pytest_cache/
 
 # --- ODA & Local Binaries ---
-# Do not push the ODA executable or supporting libraries
 *.exe
 *.dll
 *.so
