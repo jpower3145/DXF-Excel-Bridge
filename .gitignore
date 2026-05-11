@@ -1,0 +1,32 @@
+# --- Windows/System Junk ---
+[Dd]esktop.ini
+Thumbs.db
+.DS_Store
+
+# --- Python Junk ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+.pytest_cache/
+
+# --- ODA & Local Binaries ---
+# Do not push the ODA executable or supporting libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.tx
+
+# --- Local Project Data ---
+# Ignore the conversion sandbox and temporary output
+Converted_DXFs/
+/temp/
+
+# --- IDE Config ---
+.vscode/
+.idea/
+*.swp
